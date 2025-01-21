@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "AppNLU_Admin",
+    "slug": "AppNLU_Admin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "newArchEnabled": true,
+      "useLegacyBridge": false
+    },
+    "ios": {
+      "newArchEnabled": true
+    }
+  }
+}
